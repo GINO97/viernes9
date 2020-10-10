@@ -10,3 +10,9 @@ dia_mean = [0.0]7
       dia = int(dia)
       cost = float(cost)
      print(dia,cost)
+
+
+/-----------------------------
+if weeks in data:
+        data[weeks].append(cost)
+        print(data)
